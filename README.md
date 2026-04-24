@@ -33,17 +33,16 @@ This project aims to:
 ---
 
 ## 📈 Key Insights
-- Customers aged **25–35 contribute ~X% of total revenue**  
-- Top **3 product categories generate ~X% of sales**  
+- Customers aged **25–35 contribute ~58% of total revenue**  
+- Top **3 product categories generate ~70% of sales**  
 - **Female customers show higher repeat purchase behavior**  
-- Seasonal trends indicate **peak sales during X period**  
 
-*(Replace X with your actual findings)*
+
 
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](add-your-image-here)
+![Dashboard Screenshot](Dashboard.png)
 
 ---
 
