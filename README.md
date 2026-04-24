@@ -1,6 +1,76 @@
-Customer dataset
-This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. The goal is to uncover insights into spending patterns, customer segments, product preferences, and subscription behavior to guide strategic business decisions.
-Customer Shopping Behavior Analysis | Python, PostgreSQL, Power BIPerformed Exploratory Data Analysis (EDA) on a dataset of 3,900 purchases to uncover spending patterns and demographics.
-Cleaned and preprocessed data using Pandas, handling missing values and engineering features like age_group for deeper segmentation.
-Executed SQL queries in PostgreSQL to identify high-revenue segments, finding that Male customers generated $157,890 in revenue compared to $75,191 from Female customers.Segmented 3,900 customers into Loyal (3,116), Returning (701), and New (83) categories to guide targeted marketing strategies.
-Developed an interactive Power BI Dashboard to visualize key metrics, including a 27% subscription rate and top-performing product categories like Clothing.
+# Customer Behavior Analysis & Business Insights Dashboard
+
+## 📊 Overview
+This project analyzes customer shopping behavior using transactional data (~3900 records) to uncover spending patterns, customer segments, and product preferences. The goal is to generate actionable insights that support data-driven business decisions.
+
+---
+
+## 🎯 Problem Statement
+Businesses often lack clear visibility into customer purchasing patterns.  
+This project aims to:
+- Identify high-value customer segments  
+- Analyze product category performance  
+- Understand customer behavior trends  
+- Support strategic decision-making  
+
+---
+
+## 🛠️ Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL (Joins, Aggregations, Group By)  
+- Power BI (Dashboard & Visualization)  
+- Jupyter Notebook  
+
+---
+
+## 📂 Project Structure
+- `Customer_Shopping_Behaviour.ipynb` → Data cleaning, EDA, visualization  
+- `customer_analysis.sql` → SQL queries for data insights  
+- `shop_behaviour.pbix` → Interactive Power BI dashboard  
+- `Customer Shopping Behavior Analysis.pdf` → Detailed report  
+- `Customer Behaviour.pptx` → Presentation  
+
+---
+
+## 📈 Key Insights
+- Customers aged **25–35 contribute ~X% of total revenue**  
+- Top **3 product categories generate ~X% of sales**  
+- **Female customers show higher repeat purchase behavior**  
+- Seasonal trends indicate **peak sales during X period**  
+
+*(Replace X with your actual findings)*
+
+---
+
+## 📊 Dashboard Preview
+![Dashboard Screenshot](add-your-image-here)
+
+---
+
+## 💡 Business Recommendations
+- Focus marketing on high-value customer segments  
+- Optimize inventory for top-performing product categories  
+- Implement targeted campaigns for repeat customers  
+- Leverage seasonal trends for promotional strategies  
+
+---
+
+## 🚀 Outcomes
+- Improved understanding of customer behavior  
+- Data-driven insights for business growth  
+- End-to-end analytics pipeline (Python → SQL → Power BI)  
+
+---
+
+## 📌 Future Improvements
+- Add predictive modeling (customer churn / sales forecasting)  
+- Deploy dashboard online  
+- Integrate larger real-world datasets  
+
+---
+
+## 👩‍💻 Author
+**Shreya Karmakar**  
+📧 shreya03karma@gmail.com  
+🔗 LinkedIn: linkedin.com/in/shreya-karmakar  
+💻 GitHub: github.com/Shreya-Karmakar
